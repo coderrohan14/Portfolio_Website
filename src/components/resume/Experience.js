@@ -16,7 +16,7 @@ const Experience = () => {
           </p>
           <h2 className="text-4xl font-bold">Work Experience</h2>
         </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Visiting Software Researcher"
             subTitle="MacEwan University (Jun 2022 - Sep 2022)"

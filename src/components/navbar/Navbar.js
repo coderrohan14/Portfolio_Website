@@ -44,10 +44,10 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  "I am a passionate MERN stack developer and machine learning
-                  enthusiast. With a strong foundation in web development and a
-                  keen eye for data, I create innovative solutions that bridge
-                  technology and user experience."
+                  "I am a dedicated full-stack web developer and ardent software
+                  engineering enthusiast. With a robust background in Web and
+                  Android development, I craft inventive solutions that
+                  harmonize technology with an exceptional user experience."
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -72,17 +72,26 @@ const Navbar = () => {
               </ul>
               <div className="flex flex-col gap-4">
                 <h2 className="text-base uppercase font-titleFont mb-4">
-                  Find me in
+                  Find me on
                 </h2>
                 <div className="flex gap-4">
                   <span className="bannerIcon">
-                    <SiGithub />
+                    <a href="https://github.com/coderrohan14" target="_blank">
+                      <SiGithub />
+                    </a>
                   </span>
                   <span className="bannerIcon">
-                    <SiGmail />
+                    <a href="mailto:rnpradha@ucsc.edu" target="_blank">
+                      <SiGmail />
+                    </a>
                   </span>
                   <span className="bannerIcon">
-                    <FaLinkedinIn />
+                    <a
+                      href="https://www.linkedin.com/in/rohan-pradhan1406/"
+                      target="_blank"
+                    >
+                      <FaLinkedinIn />
+                    </a>
                   </span>
                 </div>
               </div>
