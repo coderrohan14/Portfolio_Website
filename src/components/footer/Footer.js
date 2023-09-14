@@ -41,7 +41,7 @@ const Footer = () => {
         <ul className="flex flex-col gap-4 font-titleFont font-medium py-6 overflow-hidden">
           <li>
             <a
-              href="https://drive.google.com/file/d/1TDIruwtSOEWxGLG5R0MK3Lj2sW1aOogD/view?usp=sharing"
+              href="https://drive.google.com/file/d/1DBm9yO1eHSzkS3QF7zgfouQZ7mVQGlvo/view?usp=sharing"
               target="_blank"
             >
               <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">

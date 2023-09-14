@@ -22,7 +22,7 @@ const ContactLeft = () => {
           embark on a journey of innovation and creativity together!
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+91-7043455514</span>
+          Phone: <span className="text-lightText">+1 (206) 581-8809</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">rnpradha@ucsc.edu</span>
